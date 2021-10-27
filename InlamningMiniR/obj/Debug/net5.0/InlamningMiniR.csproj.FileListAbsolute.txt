@@ -1,0 +1,15 @@
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.csproj.AssemblyReference.cache
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.AssemblyInfoInputs.cache
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.AssemblyInfo.cs
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.csproj.CoreCompileInputs.cache
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/bin/Debug/net5.0/InlamningMiniR.deps.json
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/bin/Debug/net5.0/InlamningMiniR.runtimeconfig.json
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/bin/Debug/net5.0/InlamningMiniR.runtimeconfig.dev.json
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/bin/Debug/net5.0/InlamningMiniR.dll
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/bin/Debug/net5.0/ref/InlamningMiniR.dll
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/bin/Debug/net5.0/InlamningMiniR.pdb
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.dll
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/ref/InlamningMiniR.dll
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.pdb
+/Users/wilmahammarshall/Projects/InlamningMiniR/InlamningMiniR/obj/Debug/net5.0/InlamningMiniR.genruntimeconfig.cache
